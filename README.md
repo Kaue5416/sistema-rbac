@@ -205,7 +205,7 @@ sistema-rbac/
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Kaue5416/sistema-rbac
 ```
 
 ### 2. Entrar na pasta do projeto
